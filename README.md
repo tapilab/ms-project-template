@@ -9,18 +9,21 @@ Here is the problem your are going to solve.
 
 ## Research questions
 
-Here are the core questions / subproblems you will address
+Here are the core questions / subproblems you will address:
+
 1. ...
 2. ...
 3. ...
 
 ## Related work
 
-Here's how other people have tried to solve this problem. 
+Here's how other people have tried to solve this problem, with a few links/citations. 
 
 ## Data
 
 Here is a description of the data you collected.
+
+Here is an example data record.
 
 ## Methods
 
@@ -32,5 +35,5 @@ Here is a summary of the main results.
 
 ## Conclusions / Future Work
 
-Here's the maing conlusions and a list of directions for improvement.
+Here's the main conclusions and a list of directions for improvement.
 
