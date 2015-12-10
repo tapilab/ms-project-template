@@ -1,6 +1,8 @@
 # ms-project-template
 A template for students doing M.S. or undergraduate independent studies/theses.
 
+See instructions here: <https://github.com/tapilab/tapilab/wiki/M.S.---Undergraduate-Projects>
+
 This README.md file should summarize your project. Think of it as the short version of your project report.
 
 ## Problem
