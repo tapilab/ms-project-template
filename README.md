@@ -35,6 +35,10 @@ Here is an outline of your approach.
 
 Here is a summary of the main results.
 
+You can include an image like this:
+
+![Image](../blob/master/src/figures/iit.png?raw=true)
+
 ## Conclusions / Future Work
 
 Here's the main conclusions and a list of directions for improvement.
